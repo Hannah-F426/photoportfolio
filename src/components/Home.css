@@ -1,0 +1,108 @@
+
+
+
+.home{
+    border: 2px solid #999;
+    background-color: rgba(255, 255, 255, 0.4);
+    color: white;
+    margin: auto;
+    margin-top: 3%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+    transition: all .5s ease-in-out;
+}
+
+.home:hover{
+    border: 2px solid #999;
+    background-color: rgba(255, 255, 255, 0.4);
+    color: white;
+    margin: auto;
+    margin-top: 3%;
+    /*transform: scale(1.02);*/
+}
+
+.title{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 0);
+    background-color: rgb(0,51,51,.9);
+    width: 100%;
+    max-width: 750px;
+    padding: 5px;
+    border: 2px solid goldenrod;
+    &:before, &:after {
+        content: "•";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        font-size: 14px;
+        color: goldenrod;
+        border: 2px solid goldenrod;
+        line-height: 12px;
+        top: 5px;
+        text-align: center;
+    }
+    &:before {
+        left: 5px;
+    }
+    &:after {
+        right: 5px;
+    }
+    .container-inner {
+        position: relative;
+        border: 2px solid goldenrod;
+        padding: 70px;
+        &:before, &:after {
+            content: "•";
+            position: absolute;
+            width: 14px;
+            height: 14px;
+            font-size: 14px;
+            color: goldenrod;
+            border: 2px solid goldenrod;
+            line-height: 12px;
+            bottom: -2px;
+            text-align: center;
+        }
+        &:before {
+            left: -2px;
+        }
+        &:after {
+            right: -2px;
+        }
+    }
+}
+.image{
+    float: right;
+    right: 50%;
+    width: auto;
+    height: 475px;
+    margin-left: 30px;
+    margin-top: -45px;
+}
+.image img {
+    height: 100%;
+    max-width: 100%;
+    display: block;
+    border: 2px solid goldenrod;
+    border-radius: 50%;
+}
+
+.Welcome {
+    margin-top: 60px;
+    width: 50%;
+}
+.About {
+    margin-top: 50px;
+    margin-bottom: 120px;
+    width: 50%;
+}
