@@ -8,4 +8,6 @@ body {
     background-size:cover;
     color: white;
     font-family: "Arsenal-SC", sans-serif;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
