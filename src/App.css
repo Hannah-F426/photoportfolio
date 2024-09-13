@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&family=Maven+Pro:wght@400..900&display=swap');
 body {
-    background-image: url("../public/images/AdobeStock_893876102.jpeg");
+    background-image: url("assets/images/AdobeStock_893876102.jpeg");
     background-repeat: no-repeat;
     -webkit-background-size:cover;
     -moz-background-size:cover;

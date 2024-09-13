@@ -19,133 +19,133 @@ export default function Portfolio() {
     const [index, setIndex] = useState(-1);
     const photos = [
         {
-            src: "/images/portfolio_imgs/5-7.jpg",
+            src: require("../assets/images/portfolio_imgs/5-7.jpg"),
             alt: "image 1",
             width: 800,
             height: 533,
 
         },
         {
-            src: "/images/portfolio_imgs/039.JPG",
+            src: require("../assets/images/portfolio_imgs/039.JPG"),
             alt: "image 1",
             width: 1000,
             height: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/059ed.jpg",
+            src: require("../assets/images/portfolio_imgs/059ed.jpg"),
             alt: "image 1",
             height: 1000,
             width: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_0022done.jpg",
+            src: require("../assets/images/portfolio_imgs/IMG_0022done.jpg"),
             alt: "image 1",
             width: 1000,
             height: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_0045done.jpg",
+            src: require("../assets/images/portfolio_imgs/IMG_0045done.jpg"),
             alt: "image 1",
             width: 1000,
             height: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_0077.JPG",
+            src: require("../assets/images/portfolio_imgs/IMG_0077.JPG"),
             alt: "image 1",
             width: 1000,
             height: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_0094.JPG",
+            src: require("../assets/images/portfolio_imgs/IMG_0094.JPG"),
             alt: "image 1",
             height: 1000,
             width: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_0187.jpg",
+            src: require("../assets/images/portfolio_imgs/IMG_0187.jpg"),
             alt: "image 1",
             width: 1000,
             height: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_0298.JPG",
+            src: require("../assets/images/portfolio_imgs/IMG_0298.JPG"),
             alt: "image 1",
             height: 1000,
             width: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_0570.JPG",
+            src: require("../assets/images/portfolio_imgs/IMG_0570.JPG"),
             alt: "image 1",
             height: 1000,
             width: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_0638.JPG",
+            src: require("../assets/images/portfolio_imgs/IMG_0638.JPG"),
             alt: "image 1",
             width: 1000,
             height: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_0883.JPG",
+            src: require("../assets/images/portfolio_imgs/IMG_0883.JPG"),
             alt: "image 1",
             width: 1000,
             height: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_1132.JPG",
+            src: require("../assets/images/portfolio_imgs/IMG_1132.JPG"),
             alt: "image 1",
             width: 1000,
             height: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_2980.jpg",
+            src: require("../assets/images/portfolio_imgs/IMG_2980.jpg"),
             alt: "image 1",
             width: 1000,
             height: 573,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_5053.JPG",
+            src: require("../assets/images/portfolio_imgs/IMG_5053.JPG"),
             alt: "image 1",
             width: 4272,
             height: 2848,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_5594.JPG",
+            src: require("../assets/images/portfolio_imgs/IMG_5594.JPG"),
             alt: "image 1",
             width: 1000,
             height: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_6896.jpg",
+            src: require("../assets/images/portfolio_imgs/IMG_6896.jpg"),
             alt: "image 1",
             width: 1000,
             height: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_8776.jpg",
+            src: require("../assets/images/portfolio_imgs/IMG_8776.jpg"),
             alt: "image 1",
             height: 1000,
             width: 667,
 
         },
         {
-            src: "/images/portfolio_imgs/IMG_9831.jpg",
+            src: require("../assets/images/portfolio_imgs/IMG_9831.jpg"),
             alt: "image 1",
             width: 1000,
             height: 673,

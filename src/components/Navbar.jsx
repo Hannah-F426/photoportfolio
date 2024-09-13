@@ -20,10 +20,10 @@ function Navbar(){
             <h4 className="title">Hannah Farrell Photography</h4>
         </div>
         <ul className="nav__list">
-            <li className="nav__item"><Link to="/">Home</Link></li>
-            <li className="nav__item"><Link to="portfolio">Portfolio</Link></li>
-            <li className="nav__item"><Link to="albums">Albums</Link></li>
-            <li className="nav__item"><Link to="contact-me">Contact Me</Link></li>
+            <li className="nav__item"><Link to="/photoportfolio">Home</Link></li>
+            <li className="nav__item"><Link to="/photoportfolio/portfolio">Portfolio</Link></li>
+            <li className="nav__item"><Link to="/photoportfolio/albums">Albums</Link></li>
+            <li className="nav__item"><Link to="/photoportfolio/contact-me">Contact Me</Link></li>
         </ul>
     </nav>
 

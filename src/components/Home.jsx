@@ -10,7 +10,7 @@ class Home extends React.Component{
                 <div className="container">
                     <div className="container-inner">
                         <div className = "image">
-                        <img src="/images/melol.jpg" alt="Me"/>
+                        <img src={require("../assets/images/melol.jpg")} alt="Me"/>
                         </div>
                         <h3 className="Welcome">Hi, Hello, and welcome to my photography
                             portfolio!</h3>
