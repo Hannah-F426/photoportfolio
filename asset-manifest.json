@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/photoportfolio/static/css/main.17a0924f.css",
+    "main.js": "/photoportfolio/static/js/main.ccc3eaf9.js",
+    "static/js/453.50ea2d7a.chunk.js": "/photoportfolio/static/js/453.50ea2d7a.chunk.js",
+    "static/media/AdobeStock_893876102.jpeg": "/photoportfolio/static/media/AdobeStock_893876102.14547dc3b9b805e567b0.jpeg",
+    "static/media/melol.jpg": "/photoportfolio/static/media/melol.e8e7d0c53bf3b8dd6cee.jpg",
+    "static/media/IMG_5053.JPG": "/photoportfolio/static/media/IMG_5053.d844d467d15bc1466a5d.JPG",
+    "static/media/IMG_9831.jpg": "/photoportfolio/static/media/IMG_9831.6317f18274648fe3fef6.jpg",
+    "static/media/IMG_0045done.jpg": "/photoportfolio/static/media/IMG_0045done.fc975f608532d760177c.jpg",
+    "static/media/IMG_1132.JPG": "/photoportfolio/static/media/IMG_1132.1a7932ddb727b95e9263.JPG",
+    "static/media/IMG_8776.jpg": "/photoportfolio/static/media/IMG_8776.ff6cc0f08e9ee9815d32.jpg",
+    "static/media/039.JPG": "/photoportfolio/static/media/039.5f0e7876d062f97a4a06.JPG",
+    "static/media/IMG_0094.JPG": "/photoportfolio/static/media/IMG_0094.c62d187b0d751e511b60.JPG",
+    "static/media/059ed.jpg": "/photoportfolio/static/media/059ed.6491e69aa4c7b64be68d.jpg",
+    "static/media/IMG_6896.jpg": "/photoportfolio/static/media/IMG_6896.f3d0cb666e00c4d6d4e1.jpg",
+    "static/media/IMG_0022done.jpg": "/photoportfolio/static/media/IMG_0022done.878d277d97a60eef75ea.jpg",
+    "static/media/IMG_2980.jpg": "/photoportfolio/static/media/IMG_2980.b06a2271f9c7a39ad99a.jpg",
+    "static/media/IMG_0570.JPG": "/photoportfolio/static/media/IMG_0570.1cb5f3ce9380e576c5d0.JPG",
+    "static/media/IMG_0638.JPG": "/photoportfolio/static/media/IMG_0638.006ceb2a5e85787df582.JPG",
+    "static/media/IMG_0883.JPG": "/photoportfolio/static/media/IMG_0883.317941321aa61bcb8554.JPG",
+    "static/media/IMG_0077.JPG": "/photoportfolio/static/media/IMG_0077.059c2d8c2dd7ebc3f75d.JPG",
+    "static/media/5-7.jpg": "/photoportfolio/static/media/5-7.7c3ed2fb13800ba3470c.jpg",
+    "static/media/IMG_0298.JPG": "/photoportfolio/static/media/IMG_0298.321f4e9b388b397368a4.JPG",
+    "static/media/IMG_0187.jpg": "/photoportfolio/static/media/IMG_0187.8bfd539ebf2c94740e36.jpg",
+    "static/media/IMG_5594.JPG": "/photoportfolio/static/media/IMG_5594.628541f6fef5bbabe97b.JPG",
+    "static/media/logo.svg": "/photoportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/photoportfolio/index.html",
+    "main.17a0924f.css.map": "/photoportfolio/static/css/main.17a0924f.css.map",
+    "main.ccc3eaf9.js.map": "/photoportfolio/static/js/main.ccc3eaf9.js.map",
+    "453.50ea2d7a.chunk.js.map": "/photoportfolio/static/js/453.50ea2d7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17a0924f.css",
+    "static/js/main.ccc3eaf9.js"
+  ]
+}
